@@ -1,0 +1,21 @@
+[32mINFO    [0m selenium:webdriver_listener.py:19 Navigating to https://fususone.com/
+[32mINFO    [0m selenium:webdriver_listener.py:22 https://fususone.com/ opened
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by xpath //*[@placeholder='Enter email']
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by xpath //*[@placeholder='Enter email'] found
+[32mINFO    [0m selenium:webdriver_listener.py:43 None value changed
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+[32mINFO    [0m selenium:webdriver_listener.py:32 Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+[32mINFO    [0m selenium:webdriver_listener.py:38 mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by xpath //*[@type='password']
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by xpath //*[@type='password'] found
+[32mINFO    [0m selenium:webdriver_listener.py:43 None value changed
+[32mINFO    [0m selenium:webdriver_listener.py:52 Message: Element <input id="mat-input-1" class="mat-input-element mat-form-field-autofill-control password-field ng-untouched ng-pristine ng-valid cdk-text-field-autofill-monitored" type="password"> is not reachable by keyboard
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:189:5
+ElementNotInteractableError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:349:5
+webdriverSendKeysToElement@chrome://remote/content/marionette/interaction.sys.mjs:629:13
+interaction.sendKeysToElement@chrome://remote/content/marionette/interaction.sys.mjs:603:11
+sendKeysToElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:533:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:150:31

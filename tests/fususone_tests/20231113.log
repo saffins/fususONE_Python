@@ -1,0 +1,278 @@
+2023-11-13 20:17:21,443: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 20:17:31,463: INFO: Message: Unable to locate element: //*[@placeholder='Enter email']; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:189:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:507:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+2023-11-13 20:17:31,706: INFO: Driver quitting
+2023-11-13 20:17:34,805: INFO: Driver quitted
+2023-11-13 20:18:04,560: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 20:18:11,127: INFO: Driver quitting
+2023-11-13 20:18:15,213: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D4A81F8F10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/59c0d101-e4da-41a6-bc97-a3ac4da52d5c
+2023-11-13 20:18:19,296: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D4A81F8820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/59c0d101-e4da-41a6-bc97-a3ac4da52d5c
+2023-11-13 20:18:23,372: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D4A81F8280>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/59c0d101-e4da-41a6-bc97-a3ac4da52d5c
+2023-11-13 20:18:27,345: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 20:18:31,511: INFO: Driver quitted
+2023-11-13 20:18:37,367: INFO: Message: Unable to locate element: //*[@placeholder='Enter email']; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:189:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:507:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+2023-11-13 20:18:37,728: INFO: Driver quitting
+2023-11-13 20:18:40,713: INFO: Driver quitted
+2023-11-13 20:19:26,721: INFO: Navigating to https://fususone.com/
+2023-11-13 20:19:29,945: INFO: https://fususone.com/ opened
+2023-11-13 20:19:29,947: INFO: Driver quitting
+2023-11-13 20:19:33,053: INFO: Driver quitted
+2023-11-13 20:19:39,040: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 20:19:41,822: INFO: Message: TypeError: browsingContext.currentWindowGlobal is null
+Stacktrace:
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:573:17
+
+2023-11-13 20:19:48,181: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BDE821D400>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/330af4c0-9c5b-4010-9855-034ae1f481d9/screenshot
+2023-11-13 20:19:52,261: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BDE8C02970>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/330af4c0-9c5b-4010-9855-034ae1f481d9/screenshot
+2023-11-13 20:19:56,335: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BDE8C02700>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/330af4c0-9c5b-4010-9855-034ae1f481d9/screenshot
+2023-11-13 20:20:00,424: INFO: HTTPConnectionPool(host='localhost', port=58391): Max retries exceeded with url: /session/330af4c0-9c5b-4010-9855-034ae1f481d9/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BDE8C02580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2023-11-13 20:20:02,013: INFO: Navigating to https://fususone.com/
+2023-11-13 20:20:04,225: INFO: https://fususone.com/ opened
+2023-11-13 20:20:04,226: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 20:20:05,858: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 20:20:06,172: INFO: None value changed
+2023-11-13 20:20:06,333: INFO: Driver quitting
+2023-11-13 20:20:09,628: INFO: Driver quitted
+2023-11-13 20:20:15,567: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 20:20:16,538: INFO: Message: TypeError: browsingContext.currentWindowGlobal is null
+Stacktrace:
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:573:17
+
+2023-11-13 20:20:22,962: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C144988E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/65c42b5a-aab9-4244-82d1-824c0bcff43e/screenshot
+2023-11-13 20:20:27,030: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C1461A8E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/65c42b5a-aab9-4244-82d1-824c0bcff43e/screenshot
+2023-11-13 20:20:31,113: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C1461A730>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/65c42b5a-aab9-4244-82d1-824c0bcff43e/screenshot
+2023-11-13 20:20:35,196: INFO: HTTPConnectionPool(host='localhost', port=58542): Max retries exceeded with url: /session/65c42b5a-aab9-4244-82d1-824c0bcff43e/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C1461A670>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2023-11-13 20:27:18,789: INFO: Navigating to https://fususone.com/
+2023-11-13 20:27:20,378: INFO: https://fususone.com/ opened
+2023-11-13 20:27:20,378: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 20:27:21,318: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 20:27:21,402: INFO: None value changed
+2023-11-13 20:27:21,501: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 20:27:21,513: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 20:27:21,534: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 20:27:21,594: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 20:27:21,602: INFO: Driver quitting
+2023-11-13 20:27:23,753: INFO: Driver quitted
+2023-11-13 20:27:53,870: INFO: Navigating to https://fususone.com/
+2023-11-13 20:27:57,230: INFO: https://fususone.com/ opened
+2023-11-13 20:28:00,136: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 20:28:00,136: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 20:28:00,166: INFO: None value changed
+2023-11-13 20:28:03,494: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 20:28:03,494: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 20:28:03,525: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 20:28:03,585: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 20:28:59,633: INFO: Searching for element by xpath //*[@type='password']
+2023-11-13 20:28:59,634: INFO: Element by xpath //*[@type='password'] found
+2023-11-13 20:28:59,650: INFO: None value changed
+2023-11-13 20:29:13,565: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 20:29:13,567: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 20:29:13,598: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 20:29:13,764: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent hide-btn-text mat-spinner clicked
+2023-11-13 20:34:49,507: INFO: Driver quitting
+2023-11-13 20:34:51,743: INFO: Driver quitted
+2023-11-13 20:35:01,410: INFO: Navigating to https://fususone.com/
+2023-11-13 20:35:06,372: INFO: https://fususone.com/ opened
+2023-11-13 20:35:06,373: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 20:35:07,795: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 20:35:07,809: INFO: None value changed
+2023-11-13 20:35:08,103: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 20:35:08,116: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 20:35:08,135: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 20:35:08,188: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 20:35:08,188: INFO: Searching for element by xpath //*[@type='password']
+2023-11-13 20:35:08,199: INFO: Element by xpath //*[@type='password'] found
+2023-11-13 20:35:08,206: INFO: None value changed
+2023-11-13 20:35:08,721: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 20:35:08,730: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 20:35:08,747: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 20:35:08,798: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent hide-btn-text mat-spinner clicked
+2023-11-13 20:35:08,805: INFO: Driver quitting
+2023-11-13 20:35:10,977: INFO: Driver quitted
+2023-11-13 21:00:16,685: INFO: Navigating to https://fususone.com/
+2023-11-13 21:00:18,368: INFO: https://fususone.com/ opened
+2023-11-13 21:00:18,368: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 21:00:19,405: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 21:00:19,492: INFO: None value changed
+2023-11-13 21:00:19,604: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 21:00:19,621: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 21:00:19,642: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 21:00:19,699: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 21:00:19,699: INFO: Searching for element by xpath //*[@type='password']
+2023-11-13 21:00:19,711: INFO: Element by xpath //*[@type='password'] found
+2023-11-13 21:00:19,719: INFO: None value changed
+2023-11-13 21:00:20,115: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 21:00:20,126: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 21:00:20,154: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 21:00:20,212: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent hide-btn-text mat-spinner clicked
+2023-11-13 21:00:20,217: INFO: Driver quitting
+2023-11-13 21:00:22,388: INFO: Driver quitted
+2023-11-13 21:00:36,267: INFO: Navigating to https://fususone.com/
+2023-11-13 21:00:38,066: INFO: https://fususone.com/ opened
+2023-11-13 21:00:38,067: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 21:00:39,094: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 21:00:39,181: INFO: None value changed
+2023-11-13 21:00:39,288: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 21:00:39,300: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 21:00:39,322: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 21:00:39,381: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 21:00:39,382: INFO: Searching for element by xpath //*[@type='password']
+2023-11-13 21:00:39,394: INFO: Element by xpath //*[@type='password'] found
+2023-11-13 21:00:39,403: INFO: None value changed
+2023-11-13 21:00:39,814: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 21:00:39,833: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 21:00:39,850: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 21:00:39,908: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent hide-btn-text mat-spinner clicked
+2023-11-13 21:00:39,915: INFO: Driver quitting
+2023-11-13 21:00:42,053: INFO: Driver quitted
+2023-11-13 21:12:45,664: INFO: Navigating to https://fususone.com/
+2023-11-13 21:12:47,321: INFO: https://fususone.com/ opened
+2023-11-13 21:12:47,322: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 21:12:48,282: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 21:12:48,432: INFO: None value changed
+2023-11-13 21:12:48,532: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 21:12:48,544: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 21:12:48,562: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 21:12:48,632: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 21:12:48,636: INFO: Searching for element by xpath //*[@type='password']
+2023-11-13 21:12:48,641: INFO: Element by xpath //*[@type='password'] found
+2023-11-13 21:12:48,649: INFO: None value changed
+2023-11-13 21:12:49,079: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 21:12:49,083: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 21:12:49,099: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 21:12:49,157: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent hide-btn-text mat-spinner clicked
+2023-11-13 21:12:49,166: INFO: Driver quitting
+2023-11-13 21:12:51,321: INFO: Driver quitted
+2023-11-13 21:14:33,687: INFO: Navigating to https://fususone.com/
+2023-11-13 21:14:35,392: INFO: https://fususone.com/ opened
+2023-11-13 21:14:35,393: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 21:14:36,402: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 21:14:36,519: INFO: None value changed
+2023-11-13 21:14:36,621: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 21:14:36,634: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 21:14:36,652: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 21:14:36,711: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 21:14:36,712: INFO: Searching for element by xpath //*[@type='password']
+2023-11-13 21:14:36,724: INFO: Element by xpath //*[@type='password'] found
+2023-11-13 21:14:36,733: INFO: None value changed
+2023-11-13 21:14:37,248: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 21:14:37,255: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 21:14:37,271: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 21:14:37,323: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent hide-btn-text mat-spinner clicked
+2023-11-13 21:14:37,330: INFO: Driver quitting
+2023-11-13 21:14:39,496: INFO: Driver quitted
+2023-11-13 21:26:10,414: INFO: Navigating to https://fususone.com/
+2023-11-13 21:26:12,230: INFO: https://fususone.com/ opened
+2023-11-13 21:26:12,231: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 21:26:13,116: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 21:26:13,234: INFO: None value changed
+2023-11-13 21:26:13,325: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 21:26:13,337: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 21:26:13,355: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 21:26:13,401: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 21:26:13,401: INFO: Searching for element by xpath //*[@type='password']
+2023-11-13 21:26:13,426: INFO: Element by xpath //*[@type='password'] found
+2023-11-13 21:26:13,435: INFO: None value changed
+2023-11-13 21:26:13,953: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 21:26:13,967: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 21:26:13,984: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 21:26:14,051: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent hide-btn-text mat-spinner clicked
+2023-11-13 21:26:14,051: INFO: Driver quitting
+2023-11-13 21:26:16,235: INFO: Driver quitted
+2023-11-13 22:35:37,289: INFO: Navigating to https://fususone.com/
+2023-11-13 22:35:45,112: INFO: https://fususone.com/ opened
+2023-11-13 22:35:45,112: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 22:35:45,132: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 22:35:45,146: INFO: None value changed
+2023-11-13 22:35:45,231: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 22:35:45,247: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 22:35:45,262: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 22:35:45,326: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 22:35:45,328: INFO: Searching for element by xpath //*[@type='password']
+2023-11-13 22:35:45,330: INFO: Element by xpath //*[@type='password'] found
+2023-11-13 22:35:45,347: INFO: None value changed
+2023-11-13 22:35:45,741: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 22:35:45,746: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 22:35:45,763: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 22:35:45,829: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent hide-btn-text mat-spinner clicked
+2023-11-13 22:35:45,829: INFO: Driver quitting
+2023-11-13 22:35:48,000: INFO: Driver quitted
+2023-11-13 22:36:23,860: INFO: Navigating to https://fususone.com/
+2023-11-13 22:36:27,279: INFO: https://fususone.com/ opened
+2023-11-13 22:36:27,280: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 22:36:28,731: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 22:36:28,990: INFO: None value changed
+2023-11-13 22:36:29,113: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 22:36:29,117: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 22:36:29,139: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 22:36:29,383: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 22:36:29,384: INFO: Searching for element by xpath //*[@type='password']
+2023-11-13 22:36:29,386: INFO: Element by xpath //*[@type='password'] found
+2023-11-13 22:36:29,396: INFO: None value changed
+2023-11-13 22:36:29,402: INFO: Message: Element <input id="mat-input-1" class="mat-input-element mat-form-field-autofill-control password-field ng-untouched ng-pristine ng-valid cdk-text-field-autofill-monitored" type="password"> is not reachable by keyboard
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:189:5
+ElementNotInteractableError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:349:5
+webdriverSendKeysToElement@chrome://remote/content/marionette/interaction.sys.mjs:629:13
+interaction.sendKeysToElement@chrome://remote/content/marionette/interaction.sys.mjs:603:11
+sendKeysToElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:533:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:150:31
+
+2023-11-13 22:36:29,651: INFO: Driver quitting
+2023-11-13 22:36:32,797: INFO: Driver quitted
+2023-11-13 22:38:38,435: INFO: Navigating to https://fususone.com/
+2023-11-13 22:38:40,683: INFO: https://fususone.com/ opened
+2023-11-13 22:38:40,683: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 22:38:42,051: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 22:38:42,355: INFO: None value changed
+2023-11-13 22:38:42,517: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 22:38:42,521: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 22:38:42,550: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 22:38:42,802: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 22:38:42,803: INFO: Searching for element by xpath //*[@type='password']
+2023-11-13 22:38:42,810: INFO: Element by xpath //*[@type='password'] found
+2023-11-13 22:38:42,822: INFO: None value changed
+2023-11-13 22:38:42,830: INFO: Message: Element <input id="mat-input-1" class="mat-input-element mat-form-field-autofill-control password-field ng-untouched ng-pristine ng-valid cdk-text-field-autofill-monitored" type="password"> is not reachable by keyboard
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:189:5
+ElementNotInteractableError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:349:5
+webdriverSendKeysToElement@chrome://remote/content/marionette/interaction.sys.mjs:629:13
+interaction.sendKeysToElement@chrome://remote/content/marionette/interaction.sys.mjs:603:11
+sendKeysToElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:533:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:150:31
+
+2023-11-13 22:38:43,133: INFO: Driver quitting
+2023-11-13 22:38:46,523: INFO: Driver quitted
+2023-11-13 22:45:11,047: INFO: Navigating to https://fususone.com/
+2023-11-13 22:45:14,656: INFO: https://fususone.com/ opened
+2023-11-13 22:45:14,656: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 22:45:19,869: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 22:45:19,988: INFO: None value changed
+2023-11-13 22:45:20,104: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 22:45:20,116: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 22:45:20,138: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 22:45:20,202: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 22:45:20,203: INFO: Searching for element by xpath //*[@type='password']
+2023-11-13 22:45:20,214: INFO: Element by xpath //*[@type='password'] found
+2023-11-13 22:45:20,220: INFO: None value changed
+2023-11-13 22:45:20,616: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 22:45:20,625: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 22:45:20,643: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 22:45:20,703: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent hide-btn-text mat-spinner clicked
+2023-11-13 22:45:20,721: INFO: Driver quitting
+2023-11-13 22:45:22,891: INFO: Driver quitted

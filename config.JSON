@@ -1,0 +1,6 @@
+{
+  "browser": "firefox",
+  "headless_mode": false,
+  "base_url": "http://www.demoblaze.com/",
+  "timeout": 10
+}

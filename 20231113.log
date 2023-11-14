@@ -1,0 +1,19 @@
+
+2023-11-13 20:55:39,086: INFO: Navigating to https://fususone.com/
+2023-11-13 20:55:43,425: INFO: https://fususone.com/ opened
+2023-11-13 20:55:43,426: INFO: Searching for element by xpath //*[@placeholder='Enter email']
+2023-11-13 20:55:44,487: INFO: Element by xpath //*[@placeholder='Enter email'] found
+2023-11-13 20:55:44,645: INFO: None value changed
+2023-11-13 20:55:44,742: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 20:55:44,753: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 20:55:44,773: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 20:55:44,832: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused clicked
+2023-11-13 20:55:44,833: INFO: Searching for element by xpath //*[@type='password']
+2023-11-13 20:55:44,841: INFO: Element by xpath //*[@type='password'] found
+2023-11-13 20:55:44,856: INFO: None value changed
+2023-11-13 20:55:45,373: INFO: Searching for element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2]
+2023-11-13 20:55:45,373: INFO: Element by xpath (//*[@class='mat-button-focus-overlay']/parent::button)[2] found
+2023-11-13 20:55:45,390: INFO: Clicking on mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent
+2023-11-13 20:55:45,457: INFO: mat-focus-indicator ng-tns-c380-0 mat-raised-button mat-button-base mat-accent hide-btn-text mat-spinner clicked
+2023-11-13 20:55:45,457: INFO: Driver quitting
+2023-11-13 20:55:47,618: INFO: Driver quitted
